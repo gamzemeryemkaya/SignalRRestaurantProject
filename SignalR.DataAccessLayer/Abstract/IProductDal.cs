@@ -14,5 +14,14 @@ namespace SignalR.DataAccessLayer.Abstract
         /// Kategorileriyle birlikte ürünlerin bir listesini alır.
         /// </summary>
         List<Product> GetProductsWithCategories();
+        int ProductCount();
+
+        int ProductCountByCategoryNameHamburger();
+        int ProductCountByCategoryNameDrink();
+
+        decimal ProductPriceAvg();
+        string ProductNameByMaxPrice();
+        string ProductNameByMinPrice();
+        decimal ProductAvgPriceByHamburger();
     }
 }
