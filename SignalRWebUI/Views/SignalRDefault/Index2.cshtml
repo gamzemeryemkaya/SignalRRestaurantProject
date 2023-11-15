@@ -27,12 +27,16 @@
                                 $("#connstatus").text(connection.state);
                                 setInterval(() => {
                                     connection.invoke("SendCategoryCount")
+                                    connection.invoke("SendProductCount");
                                 }, 1000);
 
                             }).catch((err) => { console.log(err) });
 
                             connection.on("ReceiveCategoryCount", (value) => {
                                 $("#categorycount").text(value);
+                            });
+                            connection.on("ReceiveProductCount", (value2) => {
+                                $("#productcount").text(value2);
                             });
 
                         });
