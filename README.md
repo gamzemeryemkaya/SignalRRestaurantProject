@@ -38,14 +38,13 @@ https://github.com/gamzemeryemkaya/SignalRRestaurantProject/assets/112561150/d95
 
 ## Ekran Görüntüleri
 
-### Confirm Sayfası
+### Mesaj Sayfası
 
-![Uygulama Ekran Görüntüsü](https://github.com/gamzemeryemkaya/EasyCashIdentityProject/blob/master/easyg%C3%B6rseller/confirmsayfa.png?raw=true)
-### Para Transferi 
+![Uygulama Ekran Görüntüsü](https://github.com/gamzemeryemkaya/SignalRRestaurantProject/blob/master/signlr%C4%B1mage/signalrmessage.png?raw=true)
+### QR Code
 
-![Uygulama Ekran Görüntüsü](https://github.com/gamzemeryemkaya/EasyCashIdentityProject/blob/master/easyg%C3%B6rseller/para%20g%C3%B6nderme.png?raw=true)
-## Demo
+![Uygulama Ekran Görüntüsü](https://github.com/gamzemeryemkaya/SignalRRestaurantProject/blob/master/signlr%C4%B1mage/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(324).png?raw=true)
+### SQL Trigger
 
-Demoya gif veya bağlantı ekleyin
-
+![Uygulama Ekran Görüntüsü](https://github.com/gamzemeryemkaya/SignalRRestaurantProject/blob/master/signlr%C4%B1mage/signalrtrigger.png?raw=true)
   
