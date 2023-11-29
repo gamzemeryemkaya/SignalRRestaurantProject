@@ -45,6 +45,23 @@ https://github.com/gamzemeryemkaya/SignalRRestaurantProject/assets/112561150/d95
 
 ![Uygulama Ekran Görüntüsü](https://github.com/gamzemeryemkaya/SignalRRestaurantProject/blob/master/signlr%C4%B1mage/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(324).png?raw=true)
 ### SQL Trigger
-
+Sipariş tuttarı ve kasadaki para miktarı işlevi için trigger
 ![Uygulama Ekran Görüntüsü](https://github.com/gamzemeryemkaya/SignalRRestaurantProject/blob/master/signlr%C4%B1mage/signalrtrigger.png?raw=true)
+### Identity
+## Register
+![Uygulama Ekran Görüntüsü](https://github.com/gamzemeryemkaya/SignalRRestaurantProject/blob/master/signlr%C4%B1mage/register.png?raw=true)
+
+## Login
+![Uygulama Ekran Görüntüsü](https://github.com/gamzemeryemkaya/SignalRRestaurantProject/blob/master/signlr%C4%B1mage/login.png?raw=true)
+
+### Mail
+Sipariş tuttarı ve kasadaki para miktarı işlevi için trigger
+![Uygulama Ekran Görüntüsü](https://github.com/gamzemeryemkaya/SignalRRestaurantProject/blob/master/signlr%C4%B1mage/signalrmail2.png?raw=true)
+![Uygulama Ekran Görüntüsü](https://github.com/gamzemeryemkaya/SignalRRestaurantProject/blob/master/signlr%C4%B1mage/signalrmail.png?raw=true)
+
+
+### Swagger 
+Sipariş tuttarı ve kasadaki para miktarı işlevi için trigger
+![Uygulama Ekran Görüntüsü](https://github.com/gamzemeryemkaya/SignalRRestaurantProject/blob/master/signlr%C4%B1mage/signalrswagger.png?raw=true)
+
   
