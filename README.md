@@ -1,7 +1,7 @@
 
 # Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi Projesi
 
-
+## Proje Hakkında
 Bu AspNet Core 6.0 tabanlı proje, restoran rezervasyon yönetim uygulamasını içerir ve kullanıcıların rezervasyon oluşturmalarını ,ürünlerini sepete ekleyip yönetmelerini sağlar. Hem admin hem de vitrin paneli bulunmaktadır.  Proje, SignalR kütüphanesini etkin bir şekilde kullanarak anlık masaların doluluk-boşluk durumlarını göstermek, bildirimler ve anlık mesajlaşma gibi özellikleri içermektedir. 
 
 Proje, API kullanımı, solid prensiplerine uygun mimari yapısı ve clean code prensiplerine bağlı olarak geliştirilmiştir. Backend API yapısını UI tarafında tüketmeyi, güçlü bir arayüz kullanmayı ve rezervasyon işlemleri için mail gönderme gibi özellikleri içermektedir. Sepete ekleme ve rezervasyon işlemleri gibi kullanıcı etkileşimleri ön plandadır.
@@ -27,7 +27,7 @@ Proje, aşağıdaki ana başlıkları içermektedir:
 - Auto Mapper
 - Repository Design Pattern
 
-## Özellikler
+## SignalR
 
 Projenin UI kısmında, yapılan rezervasyonlar anlık olarak admin tarafından görüntülenebilir. Masaların doluluk ve boşluk durumları takip edilebilir, anlık rezervasyonlar oluşturulabilir. SignalR ile masaların durumu (doluluk-boşluk) izlenebilir ve anlık progres bar işlemleri görülebilir.
 
