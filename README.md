@@ -27,9 +27,12 @@ Proje, aşağıdaki ana başlıkları içermektedir:
 - Auto Mapper
 - Repository Design Pattern
 
+## Özellikler
+
+Projenin UI kısmında, yapılan rezervasyonlar anlık olarak admin tarafından görüntülenebilir. Masaların doluluk ve boşluk durumları takip edilebilir, anlık rezervasyonlar oluşturulabilir. SignalR ile masaların durumu (doluluk-boşluk) izlenebilir ve anlık progres bar işlemleri görülebilir.
 
 
-
+https://github.com/gamzemeryemkaya/SignalRRestaurantProject/assets/112561150/d95140f1-cf00-4463-91f7-776180f8ae03
 
 
 
